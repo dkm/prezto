@@ -29,3 +29,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "contrib/fzf-zsh-plugin"]
+	path = contrib/fzf-zsh-plugin
+	url = https://github.com/unixorn/fzf-zsh-plugin.git
